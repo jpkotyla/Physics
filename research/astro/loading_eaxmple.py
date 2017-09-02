@@ -1,4 +1,4 @@
-from astro_import import
+from physics.research.astro.astro_import import *
 import numpy as np
 import matplotlib.pyplot as plt
 
